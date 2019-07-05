@@ -66,7 +66,7 @@ module.exports = {
             // 'basics/routing/',
             [
               'basics/routing/', {
-                title: 'routing'，
+                title: '路由功能',
                 // collapsable:false,
                 children:[
                   '',
