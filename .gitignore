@@ -13,9 +13,12 @@ _book
 *.mobi
 *.pdf
 old_dir_SUMMARY.md
+old_dir_SUMMARY.html
+yarn.lock
 
 #
 build.sh
 .vscode
 .vuepress/dist
 .DS_Store
+*/.DS_Store
