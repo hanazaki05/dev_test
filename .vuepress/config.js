@@ -157,6 +157,7 @@ function i18nSidebar(locale) {
 module.exports = {
   title: '新 V2Ray 白话文指南',
   description: 'Just playing around',
+  base:'/dev_test/',
   locales: {
     '/': {
       lang: 'zh-CN',
